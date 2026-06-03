@@ -1,5 +1,10 @@
 # 💫 About Me:
-Passionate about automating tasks through Deep Learning and Generative AI.<br>Focused on developing web applications with seamless AI model integration.<br>Enthusiastic about collaborating on innovative AI solutions to tackle real-world challenges.<br>Deeply engaged in mastering the development of Generative AI applications, with a particular interest in large language models (LLMs).<br>Mesmerized by the idea of LLMS acting as Operating System in machines.
+Computer Science student exploring the intersection of AI systems, machine learning, and backend engineering.
+
+I enjoy building things from first principles—from implementing tokenizers and neural network components to designing agentic workflows, distributed systems, and multimodal deep learning architectures. My work spans AI evaluation pipelines, LLM-powered automation, backend infrastructure, and applied machine learning research.
+
+Currently building agentic ML systems, developing scalable backend services, and researching multimodal deepfake detection using cross-attention and temporal transformers.
+
 
 
 ## 🌐 Socials:
