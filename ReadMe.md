@@ -46,6 +46,16 @@ Currently building agentic ML systems, developing scalable backend services, and
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 
+## 🌍 Open Source Contributions
+
+| Repository | Stars | Pull Request | Status |
+|------------|--------|--------------|--------|
+| Hugging Face ML Intern | ⭐ 10k+ | [Handle ImageContent in MCP tool results, pass images to vision-capable LLMs (#262)](https://github.com/huggingface/ml-intern/pull/262) | Open 🔄 |
+| AgentScope | ⭐ 27k+ | [refresh read file cache recency on access (#1811)](https://github.com/agentscope-ai/agentscope/pull/1811) | Open 🔄 |
+| AgentScope | ⭐ 27k+ | [Support windows-style separators in glob patterns (#1809)](https://github.com/agentscope-ai/agentscope/pull/1809) | Open 🔄 |
+
+> Contributing to high-impact open-source AI frameworks and agent systems.
+
 # 📝 Recent Writing
 
 - [HyperAttention: Scaling Transformer Attention Beyond Quadratic Complexity](https://medium.com/gitconnected/hyperattention-the-quiet-revolution-making-long-context-llms-finally-possible-3082a2ba153b)
