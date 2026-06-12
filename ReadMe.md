@@ -50,9 +50,9 @@ Currently building agentic ML systems, developing scalable backend services, and
 
 | Repository | Stars | Pull Request | Status |
 |------------|--------|--------------|--------|
-| Hugging Face ML Intern | ⭐ 10k+ | [Handle ImageContent in MCP tool results, pass images to vision-capable LLMs (#262)](https://github.com/huggingface/ml-intern/pull/262) | Open 🔄 |
-| AgentScope | ⭐ 27k+ | [refresh read file cache recency on access (#1811)](https://github.com/agentscope-ai/agentscope/pull/1811) | Open 🔄 |
-| AgentScope | ⭐ 27k+ | [Support windows-style separators in glob patterns (#1809)](https://github.com/agentscope-ai/agentscope/pull/1809) | Merged ✅ |
+| [Hugging Face ML Intern](https://github.com/huggingface/ml-intern) | ⭐ 10k+ | [Handle ImageContent in MCP tool results, pass images to vision-capable LLMs (#262)](https://github.com/huggingface/ml-intern/pull/262) | Open 🔄 |
+| [AgentScope](https://github.com/agentscope-ai/agentscope) | ⭐ 27k+ | [refresh read file cache recency on access (#1811)](https://github.com/agentscope-ai/agentscope/pull/1811) | Open 🔄 |
+| [AgentScope](https://github.com/agentscope-ai/agentscope) | ⭐ 27k+ | [Support windows-style separators in glob patterns (#1809)](https://github.com/agentscope-ai/agentscope/pull/1809) | Merged ✅ |
 
 > Contributing to high-impact open-source AI frameworks and agent systems.
 
